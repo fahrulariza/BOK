@@ -1,3 +1,4 @@
-Tanggal,Kepala Puskesmas,Pelaksana Tata Usaha,Yang Mewakili,Menandatangani SPPD
-2024-09-01,Dr. John Doe,Jane Smith,Michael Brown,
-2024-09-02,Dr. Alice Johnson,Emily Davis,Robert Wilson,
+Tanggal, Kepala Puskesmas, Pelaksana Tata Usaha, Yang Mewakili, Absensi Kepala Puskesmas, Surat Tugas Kapus, Absensi Pelaksana Tata Usaha, Nota Dinas Pelaksana Tata Usaha, Yang Menandatangi SPPD
+2024-09-01, Hadir, Hadir, Wawancara, Hadir, Ada, Hadir, Ada, Ada
+2024-09-02, Tidak Ada, Hadir, Wawancara, Tidak Ada, Tidak Ada, Hadir, Ada, Ada
+2024-09-03, Tidak Ada, Tidak Ada, Wawancara, Tidak Ada, Tidak Ada, Tidak Ada, Tidak Ada, Tidak Ada
